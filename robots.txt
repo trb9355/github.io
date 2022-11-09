@@ -1,0 +1,4 @@
+User-Agent: *
+
+
+Sitemap: https://mobileappmarket.net/sitemap_index.xml
